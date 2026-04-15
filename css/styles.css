@@ -35,3 +35,32 @@ nav {
     background-size: cover;
     background-position: center;
 }
+
+
+.logo img {
+    height: 80px; 
+    width: auto;
+    margin-right: 15px;
+    vertical-align: middle; 
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #00ff3c;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #093aec;
+}
+
