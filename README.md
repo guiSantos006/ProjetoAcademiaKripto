@@ -8,4 +8,4 @@ Template base da página inicial que estamos trabalhando:
 
 ## Links
 
-[Link do Figma](https://www.figma.com/make/jnqJL2VxBPTRsupMOnT9EX/P%C3%A1gina-inicial-academia-kriptonita?p=f&t=Q0yFVEnJgaRozHFL-0&fullscreen=1)
+[Link do Figma](https://www.figma.com/make/jnqJL2VxBPTRsupMOnT9EX/P%C3%A1gina-inicial-academia-kriptonita?t=yqdzCr6EOP7mAd6q-1)
